@@ -2,6 +2,8 @@
 
 > run stash cli from docker
 
+![](assets/docker-stash-cli.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 [https://hub.docker.com/r/codejamninja/stash-cli](https://hub.docker.com/r/codejamninja/stash-cli)
